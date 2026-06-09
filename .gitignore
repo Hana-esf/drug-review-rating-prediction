@@ -13,3 +13,6 @@ ENV/
 data/
 .DS_Store
 Thumbs.db
+
+#API keys and secrets
+.env
