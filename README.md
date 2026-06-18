@@ -132,7 +132,7 @@ The dataset is strongly skewed, Rating 10 accounts for 31.6% of all reviews whil
 
 ---
 
-### F1 Score per Rating Class
+<!-- ### F1 Score per Rating Class
 
 ![F1 per class](outputs/figures/f1_per_class.png)
 
@@ -174,7 +174,7 @@ LIME explains individual predictions by identifying which words drove each decis
 
 Correct predictions (green) cluster toward higher confidence values. The overlap between correct and incorrect distributions indicates some overconfidence on wrong predictions — a known limitation of uncalibrated neural networks.
 
----
+--- -->
 
 ## 🤖 Generative AI Task
 
