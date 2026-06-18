@@ -330,9 +330,8 @@ Output: predicted rating (1–10)
 ## 👤 Author
 
 **Hana Esfandiar**  
-Co-founder, [AI Agents Simplified](https://aiagentssimplified.substack.com)  
-Incoming MSc Computer Science — Dalhousie University  
-[GitHub](https://github.com/Hana-esf) · [LinkedIn](https://linkedin.com/in/hana-esfandiar)
+
+[GitHub](https://github.com/Hana-esf) · [LinkedIn](https://linkedin.com/in/hana-esf)
 
 ---
 
